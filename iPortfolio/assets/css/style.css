@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #800000;
 }
 #hero p {
-  color: #fff;
+  color: #800000;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -667,7 +667,7 @@ section {
   min-height: 320px;
 }
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 200px;
   border-radius: 50%;
   margin: 0 auto;
 }

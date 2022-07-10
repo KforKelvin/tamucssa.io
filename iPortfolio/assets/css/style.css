@@ -670,8 +670,8 @@ section {
   min-height: 320px;
 }
 .testimonials .testimonial-item .testimonial-img {
-  width: 200px;
-  border-radius: 50%;
+  width: 300px;
+  border-radius: 20%;
   margin: 0 auto;
 }
 .testimonials .testimonial-item h3 {

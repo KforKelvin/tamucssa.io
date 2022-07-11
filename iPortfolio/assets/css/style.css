@@ -143,12 +143,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a, .nav-menu a:focus {
   display: flex;
+  font-weight: bold;
   align-items: center;
-  color: #a8a9b4;
+  color: black;
   padding: 12px 0px;
   margin-bottom: 8px;
   transition: 0.3s;
-  font-size: 18px;
+  font-size: 15px;
 }
 .nav-menu a i, .nav-menu a:focus i {
   font-size: 24px;
@@ -161,6 +162,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
   color: #800000;
+}
+.nav-link {
+  color: black;
 }
 
 /* Mobile Navigation */
@@ -671,17 +675,18 @@ section {
 }
 .testimonials .testimonial-item .testimonial-img {
   width: 300px;
+  /* height: 300px; */
   border-radius: 20%;
   margin: 0 auto;
 }
 .testimonials .testimonial-item h3 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
 }
 .testimonials .testimonial-item h4 {
-  font-size: 14px;
+  font-size: 15px;
   color: #999;
   margin: 0;
 }

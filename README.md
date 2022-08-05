@@ -1,5 +1,6 @@
 # Web-dev
 tamu CSSA's offical website. Hosted statically.
+https://kforkelvin.github.io/tamucssa.io/
 
 How to host:
 1. First clone this repo to your own github
